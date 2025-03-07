@@ -90,7 +90,7 @@
         "emailScheduledBatchCount": "Maximální počet naplánovaných emailů odeslaných v dávce",
         "authTokenLifetime": "Životnost autentizačního tokenu (hodiny)",
         "authTokenMaxIdleTime": "Maximální doba nečinnosti autentizačního tokenu (hodiny)",
-        "dashboardLayout": "Rozložení nástěnky (výchozí)",
+        "dashboardLayout": "Layout nástěnky (výchozí)",
         "siteUrl": "URL stránky",
         "addressPreview": "Náhled adresy",
         "addressFormat": "Formát adresy",

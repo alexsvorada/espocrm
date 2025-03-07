@@ -2,7 +2,7 @@
     "labels": {
         "Fields": "Pole",
         "Relationships": "Vztahy",
-        "Layouts": "Rozložení",
+        "Layouts": "Layouty",
         "Schedule": "Plánování",
         "Log": "Protokol",
         "Formula": "Vzorec",
@@ -46,7 +46,7 @@
         "updateDuplicateCheck": "Kontrola duplicit při aktualizaci",
         "duplicateCheckFieldList": "Pole pro kontrolu duplicit",
         "stars": "Hvězdičky",
-        "layout": "Rozložení",
+        "layout": "Layout",
         "selectFilter": "Výběrový filtr",
         "author": "Autor",
         "module": "Modul",

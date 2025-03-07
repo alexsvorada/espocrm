@@ -18,7 +18,7 @@
     },
     "labels": {
         "Create EmailFilter": "Vytvořit e-mailový filtr",
-        "Emails": "E-maily"
+        "Emails": "Emaily"
     },
     "options": {
         "action": {
@@ -33,8 +33,9 @@
         "subject": "Použijte zástupný znak *: \n\n * `text*` – začíná textem,\n * `*text*` – obsahuje text,\n * `*text` – končí textem.",
         "bodyContains": "Tělo e-mailu obsahuje některé z uvedených slov nebo frází.",
         "bodyContainsAll": "Tělo e-mailu obsahuje všechna uvedená slova nebo fráze.",
-        "from": "E-maily odeslané z uvedené adresy. Ponechte prázdné, pokud není potřeba. Můžete použít zástupný znak *.",
-        "to": "E-maily odeslané na uvedenou adresu. Ponechte prázdné, pokud není potřeba. Můžete použít zástupný znak *.",
+        "from": "Emaily odeslané z uvedené adresy. Ponechte prázdné, pokud není potřeba. Můžete použít zástupný znak *.",
+        "to": "Emaily odeslané na uvedenou adresu. Ponechte prázdné, pokud není potřeba. Můžete použít zástupný znak *.",
         "isGlobal": "Aplikuje tento filtr na všechny e-maily přicházející do systému."
     }
 }
+

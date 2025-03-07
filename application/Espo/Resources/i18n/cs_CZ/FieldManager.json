@@ -164,7 +164,7 @@
         "linkMultiple": "Sada záznamů souvisejících prostřednictvím vztahu Má-mnoho (many-to-many nebo one-to-many). Ne všechny vztahy mají svá link-multiple pole. Pouze ty, kde je povolen parametr Link-Multiple."
     },
     "messages": {
-        "fieldCreatedAddToLayouts": "Pole bylo vytvořeno. Nyní jej můžete přidat do [rozložení]({link})",
+        "fieldCreatedAddToLayouts": "Pole bylo vytvořeno. Nyní jej můžete přidat do [layoutů]({link})",
         "confirmRemove": "Opravdu chcete odstranit pole *{field}*?\n\nOdstranění pole neodstraní data z databáze. Data z databáze budou odstraněna, pokud spustíte tvrdou rekonstrukci.",
         "fieldNameIsNotAllowed": "Název pole '{field}' není povolen.",
         "fieldAlreadyExists": "Pole '{field}' již existuje v '{entityType}'.",
@@ -172,3 +172,4 @@
         "namingFieldLinkConflict": "Název '{field}' je v konfliktu s odkazem."
     }
 }
+

@@ -12,13 +12,13 @@
         "companyLogo": "Logo",
         "theme": "Téma",
         "language": "Jazyk",
-        "dashboardLayout": "Rozložení nástěnky",
+        "dashboardLayout": "Layout nástěnky",
         "dateFormat": "Formát data",
         "timeFormat": "Formát času",
         "timeZone": "Časové pásmo",
         "weekStart": "První den týdne",
         "defaultCurrency": "Výchozí měna",
-        "layoutSet": "Sada rozložení",
+        "layoutSet": "Sada layoutů",
         "authenticationProvider": "Poskytovatel autentizace",
         "customUrl": "Vlastní URL",
         "customId": "Vlastní ID",
@@ -28,12 +28,12 @@
     "links": {
         "users": "Uživatelé",
         "portalRoles": "Role",
-        "layoutSet": "Sada rozložení",
+        "layoutSet": "Sada layoutů",
         "authenticationProvider": "Poskytovatel autentizace",
         "notes": "Poznámky"
     },
     "tooltips": {
-        "layoutSet": "Poskytuje možnost mít rozložení, která se liší od standardních.",
+        "layoutSet": "Poskytuje možnost mít layouty, které se liší od standardních.",
         "portalRoles": "Zadané role portálu budou aplikovány na všechny uživatele tohoto portálu."
     },
     "labels": {
@@ -43,3 +43,4 @@
         "Settings": "Nastavení"
     }
 }
+

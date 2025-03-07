@@ -1,6 +1,6 @@
 {
     "fields": {
-        "layout": "Rozložení",
+        "layout": "Layout",
         "append": "Připojit (neodstraňovat karty uživatele)"
     },
     "links": {},
@@ -10,3 +10,4 @@
         "Deploy to Team": "Nasadit týmu"
     }
 }
+
