@@ -1,0 +1,26 @@
+{
+    "labels": {
+        "Create WorkingTimeCalendar": "Vytvořit kalendář"
+    },
+    "fields": {
+        "timeZone": "Časové pásmo",
+        "timeRanges": "Rozvrh pracovního dne",
+        "weekday0": "Ne",
+        "weekday1": "Po",
+        "weekday2": "Út",
+        "weekday3": "St",
+        "weekday4": "Čt",
+        "weekday5": "Pá",
+        "weekday6": "So",
+        "weekday0TimeRanges": "Rozvrh Ne",
+        "weekday1TimeRanges": "Rozvrh Po",
+        "weekday2TimeRanges": "Rozvrh Út",
+        "weekday3TimeRanges": "Rozvrh St",
+        "weekday4TimeRanges": "Rozvrh Čt",
+        "weekday5TimeRanges": "Rozvrh Pá",
+        "weekday6TimeRanges": "Rozvrh So"
+    },
+    "links": {
+        "ranges": "Výjimky"
+    }
+}

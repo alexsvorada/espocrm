@@ -3,5 +3,12 @@
         "Primary": "Primární",
         "Opted Out": "Odhlášené",
         "Invalid": "Neplatné"
+    },
+    "fields": {
+        "optOut": "Odhlášeno",
+        "invalid": "Neplatné"
+    },
+    "presetFilters": {
+        "orphan": "Osiřelé"
     }
 }

@@ -1,0 +1,10 @@
+{
+    "fields": {
+        "layoutList": "Rozložení"
+    },
+    "labels": {
+        "Create LayoutSet": "Vytvořit sadu rozložení",
+        "Edit Layouts": "Upravit rozložení"
+    },
+    "tooltips": {}
+}

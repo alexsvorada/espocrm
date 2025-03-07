@@ -1,6 +1,66 @@
 {
     "fields": {
-        "post": "Post",
-        "attachments": "Přílohy"
+        "post": "Příspěvek",
+        "attachments": "Přílohy",
+        "targetType": "Cíl",
+        "teams": "Týmy",
+        "users": "Uživatelé",
+        "portals": "Portály",
+        "type": "Typ",
+        "isGlobal": "Je globální",
+        "isInternal": "Je interní (pro interní uživatele)",
+        "isPinned": "Je připnutý",
+        "related": "Související",
+        "createdByGender": "Pohlaví tvůrce",
+        "data": "Data",
+        "number": "Číslo"
+    },
+    "filters": {
+        "all": "Vše",
+        "posts": "Příspěvky",
+        "updates": "Aktualizace",
+        "activity": "Aktivita"
+    },
+    "options": {
+        "targetType": {
+            "self": "Vlastní",
+            "users": "Uživatelé",
+            "teams": "Týmy",
+            "all": "Všichni interní uživatelé",
+            "portals": "Uživatelé portálu"
+        },
+        "type": {
+            "Post": "Příspěvek",
+            "Create": "Vytvoření",
+            "CreateRelated": "Vytvoření souvisejícího",
+            "Update": "Aktualizace",
+            "Status": "Stav",
+            "Assign": "Přiřazení",
+            "Relate": "Propojení",
+            "Unrelate": "Zrušení propojení",
+            "EmailReceived": "E-mail přijat",
+            "EmailSent": "E-mail odeslán"
+        }
+    },
+    "labels": {
+        "View Posts": "Zobrazit příspěvky",
+        "View Activity": "Zobrazit aktivitu",
+        "Pin": "Připnout",
+        "Unpin": "Odepnout",
+        "Pinned": "Připnuté",
+        "Quote Reply": "Citovat odpověď"
+    },
+    "messages": {
+        "writeMessage": "Napište svou zprávu zde",
+        "pinnedMaxCountExceeded": "Nelze připnout více poznámek. Maximální povolený počet je {count}."
+    },
+    "links": {
+        "portals": "Portály",
+        "attachments": "Přílohy",
+        "superParent": "Nadřazený rodič",
+        "related": "Související"
+    },
+    "otherFields": {
+        "to": "Komu"
     }
 }

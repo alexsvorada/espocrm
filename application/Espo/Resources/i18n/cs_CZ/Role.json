@@ -1,21 +1,45 @@
 {
     "fields": {
-        "name": "Jméno",
+        "name": "Název",
         "roles": "Role",
-        "assignmentPermission": "Přiřazení oprávnění",
-        "userPermission": "Uživatelská oprávnění"
+        "assignmentPermission": "Oprávnění k přiřazení",
+        "userPermission": "Uživatelská oprávnění",
+        "messagePermission": "Oprávnění k zasílání zpráv",
+        "portalPermission": "Oprávnění k portálu",
+        "groupEmailAccountPermission": "Oprávnění ke skupinovému emailovému účtu",
+        "exportPermission": "Oprávnění k exportu",
+        "massUpdatePermission": "Oprávnění k hromadné aktualizaci",
+        "followerManagementPermission": "Oprávnění ke správě sledujících",
+        "dataPrivacyPermission": "Oprávnění k ochraně osobních údajů",
+        "auditPermission": "Oprávnění k auditu",
+        "mentionPermission": "Oprávnění ke zmínkám",
+        "userCalendarPermission": "Oprávnění k uživatelskému kalendáři",
+        "data": "Data",
+        "fieldData": "Data polí"
     },
     "links": {
         "users": "Uživatelé",
         "teams": "Týmy"
     },
     "tooltips": {
-        "assignmentPermission": "Povolit omezení přiřazení záznamů ostatním uživatelům.n\nvše - bez omezení\n\ntým - povoluje přiřadit uživatelům ze svého týmu\n\nne - povoluje přiřadit pouze sobě",
-        "userPermission": "Povolit omezení zobrazení aktivit ostatních uživatelů.\n\nvše - viditelné vše\n\ntým - viditelné u uživatelů ze svého týmu\n\nne - není viditelné"
+        "messagePermission": "Umožňuje zasílat zprávy ostatním uživatelům.\n\n* vše - může posílat všem\n* tým - může posílat pouze členům týmu\n* ne - nemůže posílat",
+        "assignmentPermission": "Umožňuje přiřazovat záznamy ostatním uživatelům.\n\n* vše - bez omezení\n* tým - může přiřadit pouze členům svého týmu\n* ne - může přiřadit pouze sobě",
+        "userPermission": "Umožňuje zobrazit stream ostatních uživatelů. Umožňuje uživatelům zobrazit úrovně přístupu, které mají ostatní uživatelé k určitým záznamům.",
+        "userCalendarPermission": "Umožňuje zobrazit kalendáře ostatních uživatelů.",
+        "portalPermission": "Přístup k informacím portálu, možnost zasílat zprávy uživatelům portálu.",
+        "groupEmailAccountPermission": "Přístup ke skupinovým emailovým účtům, možnost odesílat emaily ze skupinového SMTP.",
+        "exportPermission": "Umožňuje exportovat záznamy.",
+        "massUpdatePermission": "Možnost provádět hromadnou aktualizaci záznamů.",
+        "followerManagementPermission": "Umožňuje spravovat sledující konkrétních záznamů.",
+        "dataPrivacyPermission": "Umožňuje zobrazit a vymazat osobní údaje.",
+        "auditPermission": "Umožňuje zobrazit protokol auditu.",
+        "mentionPermission": "Umožňuje zmiňovat ostatní uživatele ve Streamu.\n\n* vše - může zmiňovat všechny\n* tým - může zmiňovat pouze členy týmu\n* ne - nemůže zmiňovat"
     },
     "labels": {
         "Access": "Přístup",
-        "Create Role": "Vytvořit roli"
+        "Create Role": "Vytvořit roli",
+        "Scope Level": "Úroveň rozsahu",
+        "Field Level": "Úroveň pole"
     },
     "options": {
         "accessList": {
@@ -26,15 +50,20 @@
         "levelList": {
             "all": "vše",
             "team": "tým",
+            "account": "účet",
+            "contact": "kontakt",
             "own": "vlastní",
             "no": "ne",
+            "yes": "ano",
             "not-set": "není nastaveno"
         }
     },
     "actions": {
         "read": "Číst",
         "edit": "Upravit",
-        "delete": "Smazat"
+        "delete": "Smazat",
+        "stream": "Stream",
+        "create": "Vytvořit"
     },
     "messages": {
         "changesAfterClearCache": "Všechny změny v nastavení ACL budou aplikovány po vyčištění cache."

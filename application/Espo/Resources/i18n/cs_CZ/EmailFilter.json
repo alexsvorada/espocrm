@@ -1,0 +1,40 @@
+{
+    "fields": {
+        "from": "Od",
+        "to": "Komu",
+        "subject": "Předmět",
+        "bodyContains": "Tělo obsahuje",
+        "bodyContainsAll": "Tělo obsahuje vše",
+        "action": "Akce",
+        "isGlobal": "Je globální",
+        "emailFolder": "Složka",
+        "groupEmailFolder": "Skupinová e-mailová složka",
+        "markAsRead": "Označit jako přečtené",
+        "skipNotification": "Přeskočit oznámení"
+    },
+    "links": {
+        "emailFolder": "Složka",
+        "groupEmailFolder": "Skupinová e-mailová složka"
+    },
+    "labels": {
+        "Create EmailFilter": "Vytvořit e-mailový filtr",
+        "Emails": "E-maily"
+    },
+    "options": {
+        "action": {
+            "None": "Žádná",
+            "Skip": "Ignorovat",
+            "Move to Folder": "Přesunout do složky",
+            "Move to Group Folder": "Přesunout do skupinové složky"
+        }
+    },
+    "tooltips": {
+        "name": "Dejte filtru popisný název.",
+        "subject": "Použijte zástupný znak *: \n\n * `text*` – začíná textem,\n * `*text*` – obsahuje text,\n * `*text` – končí textem.",
+        "bodyContains": "Tělo e-mailu obsahuje některé z uvedených slov nebo frází.",
+        "bodyContainsAll": "Tělo e-mailu obsahuje všechna uvedená slova nebo fráze.",
+        "from": "E-maily odeslané z uvedené adresy. Ponechte prázdné, pokud není potřeba. Můžete použít zástupný znak *.",
+        "to": "E-maily odeslané na uvedenou adresu. Ponechte prázdné, pokud není potřeba. Můžete použít zástupný znak *.",
+        "isGlobal": "Aplikuje tento filtr na všechny e-maily přicházející do systému."
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "layout": "Rozložení",
+        "append": "Připojit (neodstraňovat karty uživatele)"
+    },
+    "links": {},
+    "labels": {
+        "Create DashboardTemplate": "Vytvořit šablonu",
+        "Deploy to Users": "Nasadit uživatelům",
+        "Deploy to Team": "Nasadit týmu"
+    }
+}

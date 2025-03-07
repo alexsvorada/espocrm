@@ -1,0 +1,20 @@
+{
+    "labels": {
+        "Create AddressCountry": "Vytvořit zemi adresy",
+        "Populate": "Naplnit"
+    },
+    "fields": {
+        "code": "Kód",
+        "isPreferred": "Je preferovaná"
+    },
+    "tooltips": {
+        "code": "ISO 3166-1 alpha-2 kód.",
+        "isPreferred": "Preferované země se zobrazí v seznamu jako první."
+    },
+    "messages": {
+        "confirmPopulateDefaults": "Všechny existující země budou smazány a bude vytvořen výchozí seznam zemí. Tuto operaci nebude možné vrátit zpět.\n\nJste si jisti?"
+    },
+    "strings": {
+        "populateDefaults": "Naplnit výchozím seznamem zemí"
+    }
+}

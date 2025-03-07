@@ -1,0 +1,45 @@
+{
+    "fields": {
+        "name": "Název",
+        "logo": "Logo",
+        "url": "URL",
+        "portalRoles": "Role",
+        "isActive": "Je aktivní",
+        "isDefault": "Je výchozí",
+        "tabList": "Seznam záložek",
+        "applicationName": "Název aplikace",
+        "quickCreateList": "Seznam rychlého vytvoření",
+        "companyLogo": "Logo",
+        "theme": "Téma",
+        "language": "Jazyk",
+        "dashboardLayout": "Rozložení nástěnky",
+        "dateFormat": "Formát data",
+        "timeFormat": "Formát času",
+        "timeZone": "Časové pásmo",
+        "weekStart": "První den týdne",
+        "defaultCurrency": "Výchozí měna",
+        "layoutSet": "Sada rozložení",
+        "authenticationProvider": "Poskytovatel autentizace",
+        "customUrl": "Vlastní URL",
+        "customId": "Vlastní ID",
+        "authTokenLifetime": "Životnost autentizačního tokenu (hodiny)",
+        "authTokenMaxIdleTime": "Maximální doba nečinnosti autentizačního tokenu (hodiny)"
+    },
+    "links": {
+        "users": "Uživatelé",
+        "portalRoles": "Role",
+        "layoutSet": "Sada rozložení",
+        "authenticationProvider": "Poskytovatel autentizace",
+        "notes": "Poznámky"
+    },
+    "tooltips": {
+        "layoutSet": "Poskytuje možnost mít rozložení, která se liší od standardních.",
+        "portalRoles": "Zadané role portálu budou aplikovány na všechny uživatele tohoto portálu."
+    },
+    "labels": {
+        "Create Portal": "Vytvořit portál",
+        "User Interface": "Uživatelské rozhraní",
+        "General": "Obecné",
+        "Settings": "Nastavení"
+    }
+}

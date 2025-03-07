@@ -1,0 +1,49 @@
+{
+    "fields": {
+        "name": "Název",
+        "body": "Tělo",
+        "entityType": "Typ entity",
+        "header": "Záhlaví",
+        "footer": "Zápatí",
+        "leftMargin": "Levý okraj",
+        "topMargin": "Horní okraj",
+        "rightMargin": "Pravý okraj",
+        "bottomMargin": "Dolní okraj",
+        "printFooter": "Tisknout zápatí",
+        "printHeader": "Tisknout záhlaví",
+        "footerPosition": "Pozice zápatí",
+        "headerPosition": "Pozice záhlaví",
+        "variables": "Dostupné zástupné znaky",
+        "pageOrientation": "Orientace stránky",
+        "pageFormat": "Formát papíru",
+        "pageWidth": "Šířka stránky (mm)",
+        "pageHeight": "Výška stránky (mm)",
+        "fontFace": "Písmo",
+        "title": "Nadpis",
+        "style": "Styl"
+    },
+    "links": {},
+    "labels": {
+        "Create Template": "Vytvořit šablonu"
+    },
+    "options": {
+        "pageOrientation": {
+            "Portrait": "Na výšku",
+            "Landscape": "Na šířku"
+        },
+        "pageFormat": {
+            "Custom": "Vlastní"
+        },
+        "placeholders": {
+            "pagebreak": "Zalomení stránky",
+            "today": "Dnes (datum)",
+            "now": "Nyní (datum-čas)"
+        },
+        "fontFace": {}
+    },
+    "tooltips": {
+        "footer": "Použijte {pageNumber} pro tisk čísla stránky.",
+        "variables": "Zkopírujte a vložte potřebný zástupný znak do záhlaví, těla nebo zápatí."
+    }
+}
+

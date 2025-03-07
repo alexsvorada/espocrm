@@ -1,0 +1,17 @@
+{
+    "fields": {
+        "status": "Stav",
+        "processedCount": "Počet zpracovaných"
+    },
+    "options": {
+        "status": {
+            "Pending": "Čeká",
+            "Running": "Probíhá",
+            "Success": "Úspěch",
+            "Failed": "Selhalo"
+        }
+    },
+    "messages": {
+        "infoText": "Hromadná akce je zpracovávána na pozadí pomocí cronu. Dokončení může chvíli trvat. Zavření tohoto dialogu neovlivní proces zpracování."
+    }
+}

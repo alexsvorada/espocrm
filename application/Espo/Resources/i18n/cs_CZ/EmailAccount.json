@@ -1,35 +1,65 @@
 {
     "fields": {
         "name": "Jméno",
-        "status": "Status",
+        "status": "Stav",
         "host": "Server",
         "username": "Uživatelské jméno",
         "password": "Heslo",
         "port": "Port",
         "monitoredFolders": "Synchronizované složky",
-        "ssl": "SSL",
+        "security": "Zabezpečení",
         "fetchSince": "Nastaveno od",
-        "emailAddress": "Emailová adresa"
+        "emailAddress": "Emailová adresa",
+        "sentFolder": "Složka odeslaných",
+        "storeSentEmails": "Ukládat odeslané emaily",
+        "keepFetchedEmailsUnread": "Ponechat stažené emaily jako nepřečtené",
+        "emailFolder": "Vložit do složky",
+        "connectedAt": "Připojeno v",
+        "useImap": "Stahovat emaily",
+        "useSmtp": "Použít SMTP",
+        "smtpHost": "SMTP server",
+        "smtpPort": "SMTP port",
+        "smtpAuth": "SMTP autentizace",
+        "smtpSecurity": "SMTP zabezpečení",
+        "smtpAuthMechanism": "SMTP autentizační mechanismus",
+        "smtpUsername": "SMTP uživatelské jméno",
+        "smtpPassword": "SMTP heslo"
     },
     "links": {
+        "filters": "Filtry",
+        "emails": "Emaily"
     },
     "options": {
         "status": {
             "Active": "Aktivní",
             "Inactive": "Neaktivní"
+        },
+        "smtpAuthMechanism": {
+            "plain": "PLAIN",
+            "login": "LOGIN",
+            "crammd5": "CRAM-MD5"
         }
     },
     "labels": {
         "Create EmailAccount": "Vytvořit emailový účet",
         "IMAP": "IMAP",
         "Main": "Hlavní",
-        "Test Connection": "Test spojení"
+        "Test Connection": "Test spojení",
+        "Send Test Email": "Odeslat testovací email",
+        "SMTP": "SMTP"
+    },
+    "presetFilters": {
+        "active": "Aktivní"
     },
     "messages": {
         "couldNotConnectToImap": "Nemohu se připojit k IMAP serveru",
-        "connectionIsOk": "Spojení je OK"
+        "connectionIsOk": "Spojení je OK",
+        "imapNotConnected": "Nelze se připojit k [IMAP účtu](#EmailAccount/view/{id})."
     },
     "tooltips": {
-        "monitoredFolders": "Můžete přidat složku 'Odeslané' k synchronizaci externím emailovým klientem."
+        "useSmtp": "Možnost odesílat emaily.",
+        "emailAddress": "Uživatelský záznam (přiřazený uživatel) by měl mít stejnou emailovou adresu, aby mohl používat tento emailový účet pro odesílání.",
+        "monitoredFolders": "Více složek by mělo být odděleno čárkou.\n\nMůžete přidat složku 'Odeslané' k synchronizaci emailů odeslaných z externího emailového klienta.",
+        "storeSentEmails": "Odeslané emaily budou uloženy na IMAP serveru. Pole Emailová adresa by mělo odpovídat adrese, ze které budou emaily odesílány."
     }
 }

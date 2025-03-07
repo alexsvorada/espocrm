@@ -1,14 +1,58 @@
 {
     "fields": {
         "width": "Šířka (%)",
-        "link": "Link",
+        "link": "Odkaz",
         "notSortable": "Neřaditelné",
-        "align": "Zarovnání"
+        "align": "Zarovnání",
+        "panelName": "Název panelu",
+        "style": "Styl",
+        "sticked": "Přilepit nahoru",
+        "isMuted": "Tlumená barva",
+        "isLarge": "Velká velikost písma",
+        "hidden": "Skryté",
+        "noLabel": "Bez popisku",
+        "dynamicLogicVisible": "Podmínky pro viditelnost panelu",
+        "dynamicLogicStyled": "Podmínky pro aplikaci stylu",
+        "tabLabel": "Popisek záložky",
+        "tabBreak": "Zalomení záložky",
+        "noteText": "Text poznámky",
+        "noteStyle": "Styl poznámky"
     },
     "options": {
         "align": {
             "left": "Vlevo",
             "right": "Vpravo"
+        },
+        "style": {
+            "default": "Výchozí",
+            "success": "Úspěch",
+            "danger": "Nebezpečí",
+            "info": "Informace",
+            "warning": "Varování",
+            "primary": "Primární"
         }
+    },
+    "labels": {
+        "New panel": "Nový panel",
+        "Layout": "Rozložení"
+    },
+    "messages": {
+        "alreadyExists": "Rozložení `{name}` již existuje.",
+        "createInfo": "Vlastní seznamová rozložení mohou být použita v panelech vztahů.",
+        "cantBeEmpty": "Rozložení nemůže být prázdné.",
+        "fieldsIncompatible": "Pole nemohou být na rozložení společně: {fields}."
+    },
+    "tooltips": {
+        "noteText": "Text, který se zobrazí v panelu. Je podporován Markdown.",
+        "tabBreak": "Samostatná záložka pro panel a všechny následující panely až do dalšího zalomení záložky.",
+        "noLabel": "Nezobrazovat popisek sloupce v záhlaví.",
+        "notSortable": "Zakáže možnost řazení podle sloupce.",
+        "width": "Šířka sloupce. Doporučuje se mít jeden sloupec bez zadané šířky, obvykle by to mělo být pole *Název*.",
+        "sticked": "Panel bude přilepen k panelu nad ním. Žádná mezera mezi panely.",
+        "hiddenPanel": "Pro zobrazení panelu je třeba kliknout na 'zobrazit více'.",
+        "panelStyle": "Barva panelu.",
+        "dynamicLogicVisible": "Pokud je nastaveno, panel bude skrytý, dokud nebude splněna podmínka.",
+        "dynamicLogicStyled": "Barva bude použita, pokud je splněna určitá podmínka. Barva je definována parametrem *Styl*.",
+        "link": "Pokud je zaškrtnuto, hodnota pole se zobrazí jako odkaz směřující na detailní zobrazení záznamu. Obvykle se používá pro pole *Název*."
     }
 }

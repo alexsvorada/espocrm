@@ -1,0 +1,17 @@
+{
+    "fields": {
+        "exportPermission": "Oprávnění k exportu",
+        "massUpdatePermission": "Oprávnění k hromadné aktualizaci",
+        "data": "Data",
+        "fieldData": "Data polí"
+    },
+    "links": {
+        "users": "Uživatelé"
+    },
+    "labels": {
+        "Access": "Přístup",
+        "Create PortalRole": "Vytvořit roli portálu",
+        "Scope Level": "Úroveň rozsahu",
+        "Field Level": "Úroveň pole"
+    }
+}

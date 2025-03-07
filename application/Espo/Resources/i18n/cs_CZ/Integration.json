@@ -3,13 +3,23 @@
         "enabled": "Povoleno",
         "clientId": "Client ID",
         "clientSecret": "Client Secret",
-        "redirectUri": "Přesměrování URI"
+        "redirectUri": "Přesměrování URI",
+        "apiKey": "API klíč",
+        "siteKey": "Site klíč",
+        "secretKey": "Secret klíč",
+        "scoreThreshold": "Prahová hodnota skóre"
+    },
+    "titles": {
+        "GoogleMaps": "Google Maps",
+        "GoogleReCaptcha": "Google reCAPTCHA"
     },
     "messages": {
-        "selectIntegration": "Vybrat integraci z menu.",
+        "selectIntegration": "Vyberte integraci z menu.",
         "noIntegrations": "Žádné integrace nejsou dostupné."
     },
     "help": {
-        "Google": "<p><b>Obtain OAuth 2.0 credentials from the Google Developers Console.</b></p><p>Visit <a href=\"https://console.developers.google.com/project\">Google Developers Console</a> to obtain OAuth 2.0 credentials such as a Client ID and Client Secret that are known to both Google and EspoCRM application.</p>"
+        "GoogleReCaptcha": "Získejte Site klíč a Secret klíč z [Google](https://www.google.com/recaptcha/).",
+        "Google": "**Získejte OAuth 2.0 přihlašovací údaje z Google Developers Console.**\n\nNavštivte [Google Developers Console](https://console.developers.google.com/project) pro získání OAuth 2.0 přihlašovacích údajů, jako je Client ID a Client Secret, které jsou známé jak Google, tak aplikaci EspoCRM.",
+        "GoogleMaps": "Získejte API klíč [zde](https://developers.google.com/maps/documentation/javascript/get-api-key)."
     }
 }

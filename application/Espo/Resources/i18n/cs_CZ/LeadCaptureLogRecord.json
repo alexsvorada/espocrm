@@ -1,0 +1,14 @@
+{
+    "fields": {
+        "number": "Číslo",
+        "data": "Data",
+        "target": "Cíl",
+        "leadCapture": "Zachycení leadu",
+        "createdAt": "Zadáno v",
+        "isCreated": "Je lead vytvořen"
+    },
+    "links": {
+        "leadCapture": "Zachycení leadu",
+        "target": "Cíl"
+    }
+}
