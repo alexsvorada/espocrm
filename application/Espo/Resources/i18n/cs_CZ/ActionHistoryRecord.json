@@ -17,7 +17,7 @@
         "target": "Cíl"
     },
     "presetFilters": {
-        "onlyMy": "Pouze moje"
+        "onlyMy": "Pouze mé"
     },
     "options": {
         "action": {
@@ -28,3 +28,4 @@
         }
     }
 }
+

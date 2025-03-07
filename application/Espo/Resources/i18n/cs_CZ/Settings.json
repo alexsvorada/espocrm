@@ -1,6 +1,6 @@
 {
     "fields": {
-        "useCache": "Použít mezipaměť",
+        "useCache": "Použít cache",
         "dateFormat": "Formát data",
         "timeFormat": "Formát času",
         "timeZone": "Časové pásmo",

@@ -29,7 +29,7 @@
         "disabled": "Zakázáno",
         "textFilterFields": "Pole textového filtru",
         "audited": "Auditováno",
-        "auditedForeign": "Cizí auditováno",
+        "auditedForeign": "Cizí pole auditováno",
         "statusField": "Stavové pole",
         "beforeSaveCustomScript": "Vlastní skript před uložením",
         "beforeSaveApiScript": "API skript před uložením",
