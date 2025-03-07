@@ -1,1 +1,1 @@
-Požiadavka na zmenu hesla
+Žiadost o zmenu hesla
