@@ -8,16 +8,16 @@
         "action": "Akce",
         "isGlobal": "Je globální",
         "emailFolder": "Složka",
-        "groupEmailFolder": "Skupinová e-mailová složka",
+        "groupEmailFolder": "Skupinová emailová složka",
         "markAsRead": "Označit jako přečtené",
         "skipNotification": "Přeskočit oznámení"
     },
     "links": {
         "emailFolder": "Složka",
-        "groupEmailFolder": "Skupinová e-mailová složka"
+        "groupEmailFolder": "Skupinová emailová složka"
     },
     "labels": {
-        "Create EmailFilter": "Vytvořit e-mailový filtr",
+        "Create EmailFilter": "Vytvořit emailový filtr",
         "Emails": "Emaily"
     },
     "options": {
@@ -31,11 +31,11 @@
     "tooltips": {
         "name": "Dejte filtru popisný název.",
         "subject": "Použijte zástupný znak *: \n\n * `text*` – začíná textem,\n * `*text*` – obsahuje text,\n * `*text` – končí textem.",
-        "bodyContains": "Tělo e-mailu obsahuje některé z uvedených slov nebo frází.",
-        "bodyContainsAll": "Tělo e-mailu obsahuje všechna uvedená slova nebo fráze.",
+        "bodyContains": "Tělo emailu obsahuje některé z uvedených slov nebo frází.",
+        "bodyContainsAll": "Tělo emailu obsahuje všechna uvedená slova nebo fráze.",
         "from": "Emaily odeslané z uvedené adresy. Ponechte prázdné, pokud není potřeba. Můžete použít zástupný znak *.",
         "to": "Emaily odeslané na uvedenou adresu. Ponechte prázdné, pokud není potřeba. Můžete použít zástupný znak *.",
-        "isGlobal": "Aplikuje tento filtr na všechny e-maily přicházející do systému."
+        "isGlobal": "Aplikuje tento filtr na všechny emaily přicházející do systému."
     }
 }
 

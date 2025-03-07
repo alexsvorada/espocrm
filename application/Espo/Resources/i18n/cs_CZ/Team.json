@@ -13,8 +13,8 @@
         "roles": "Role",
         "layoutSet": "Sada rozvržení",
         "workingTimeCalendar": "Kalendář pracovní doby",
-        "inboundEmails": "Skupinové e-mailové účty",
-        "groupEmailFolders": "Skupinové e-mailové složky"
+        "inboundEmails": "Skupinové emailové účty",
+        "groupEmailFolders": "Skupinové emailové složky"
     },
     "tooltips": {
         "workingTimeCalendar": "Kalendář bude použit pro uživatele, kteří mají tento tým nastaven jako výchozí tým.",

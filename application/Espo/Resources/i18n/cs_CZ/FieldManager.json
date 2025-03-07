@@ -156,7 +156,7 @@
         "number": "Automaticky se zvyšující číslo řetězcového typu s možnou předponou a specifickou délkou.",
         "autoincrement": "Generované pouze pro čtení automaticky se zvyšující celé číslo.",
         "barcode": "Čárový kód. Lze vytisknout do PDF.",
-        "email": "Sada e-mailových adres s jejich parametry: Odhlášeno, Neplatné, Primární.",
+        "email": "Sada emailových adres s jejich parametry: Odhlášeno, Neplatné, Primární.",
         "phone": "Sada telefonních čísel s jejich parametry: Typ, Odhlášeno, Neplatné, Primární.",
         "foreign": "Pole souvisejícího záznamu. Pouze pro čtení.",
         "link": "Záznam související prostřednictvím vztahu Patří-k (many-to-one nebo one-to-one).",

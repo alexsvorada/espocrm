@@ -8,7 +8,7 @@
         "targetList": "Cílový seznam",
         "fieldList": "Pole pro vyplnění",
         "optInConfirmation": "Dvojité potvrzení",
-        "optInConfirmationEmailTemplate": "Šablona e-mailu pro potvrzení",
+        "optInConfirmationEmailTemplate": "Šablona emailu pro potvrzení",
         "optInConfirmationLifetime": "Životnost potvrzení (hodiny)",
         "optInConfirmationSuccessMessage": "Text zobrazený po potvrzení",
         "leadSource": "Zdroj leadu",
@@ -21,7 +21,7 @@
         "createLeadBeforeOptInConfirmation": "Vytvořit lead před potvrzením",
         "skipOptInConfirmationIfSubscribed": "Přeskočit potvrzení, pokud je lead již v cílovém seznamu",
         "smtpAccount": "SMTP účet",
-        "inboundEmail": "Skupinový e-mailový účet",
+        "inboundEmail": "Skupinový emailový účet",
         "duplicateCheck": "Kontrola duplicit",
         "phoneNumberCountry": "Telefonní předvolba země",
         "fieldParams": "Parametry polí",
@@ -40,9 +40,9 @@
     "links": {
         "targetList": "Cílový seznam",
         "campaign": "Kampaň",
-        "optInConfirmationEmailTemplate": "Šablona e-mailu pro potvrzení",
+        "optInConfirmationEmailTemplate": "Šablona emailu pro potvrzení",
         "targetTeam": "Cílový tým",
-        "inboundEmail": "Skupinový e-mailový účet",
+        "inboundEmail": "Skupinový emailový účet",
         "logRecords": "Protokol"
     },
     "labels": {
@@ -63,3 +63,4 @@
         "optInConfirmationSuccessMessage": "Markdown je podporován."
     }
 }
+

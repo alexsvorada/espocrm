@@ -20,7 +20,7 @@
         "infoText": "Dostupné zástupné znaky:\n\n{optOutUrl} &#8211; URL pro odkaz na odhlášení;\n\n{optOutLink} &#8211; odkaz na odhlášení."
     },
     "tooltips": {
-        "oneOff": "Zaškrtněte, pokud budete tuto šablonu používat pouze jednou. Např. pro hromadný e-mail."
+        "oneOff": "Zaškrtněte, pokud budete tuto šablonu používat pouze jednou. Např. pro hromadný email."
     },
     "presetFilters": {
         "actual": "Aktuální"
