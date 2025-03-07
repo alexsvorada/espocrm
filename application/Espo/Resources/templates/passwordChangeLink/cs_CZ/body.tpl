@@ -1,1 +1,1 @@
-"Můžete změnit Vaše heslo pomocí tohoto odkazu <a href="{{link}}">{{link}}</a>, tato url adresa z bezpečnostních důvodů brzy vyprší.
+<p>Své heslo můžete změnit kliknutím na tento odkaz <a href="{{link}}">{{link}}</a>. Tato unikátní URL brzy vyprší.</p>

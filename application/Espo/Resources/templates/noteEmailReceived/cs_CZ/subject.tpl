@@ -1,0 +1,1 @@
+Email přijat: [{{entityType}}] {{name}}
